@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Poole - For scienceofsoul
+permalink: short-urls-jekyll
 ---
 
 Science of soul
