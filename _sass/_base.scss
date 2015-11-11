@@ -19,18 +19,20 @@ body {
   font-size: 32px;
 }
 
-// This applies for mobile devices
-@media (max-width: 38em) {
-  #title {
-    font-family: 'Amatic SC', cursive;
-    font-size: 24px;
-    text-indent: 10px;
-    }
+.break{
+    display:none;
 }
 
-#head_links{
-  text-align: center;
+// This applies for mobile devices
+@media (max-width: 38em) {
+  .break{
+    display:block;
+  }
+  .masthead-title {
+      text-align: center;
+  }
 }
+
 html {
   font-family: 'Oxygen', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
