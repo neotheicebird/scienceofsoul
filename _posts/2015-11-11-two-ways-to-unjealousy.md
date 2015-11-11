@@ -24,9 +24,13 @@ If we observe oneself, when we become jealous there is energy arising in us, and
 
 **Here is an horrible experiment (Let's just keep it a thought experiment)** 
 
-Take a child to an icecream parlour and show her the most delicious ones there, this is the time when you should see her eyes glowing and she should normally be cheerful, this is the energy am talking about. **Desire releases energy**. 
+Take a child to an ice-cream parlour and show her the most delicious ones there, this is the time when you should see her eyes glowing and she should normally be cheerful, this is the energy am talking about. **Desire releases energy**. 
 
-Now tell her she doesn't deserve it, because she did something wrong (like homework maybe, you know!), you should have successfully inflicted guilt in an innocent being! Until she thinks she 'deserves' the ice cream she is going to be **Jealous** whenever she sees someone enjoying it.
+Now tell her she doesn't deserve it, because she did something wrong (like homework maybe, you know!), you should have successfully inflicted guilt in an innocent being. Congrats! Until she thinks she 'deserves' the ice cream she is going to be **Jealous** whenever she sees someone enjoying it.
+
+<p class="message">
+    Burning action burns jealousy with it
+</p>
 
 **The Second Way - The road less taken**
 
@@ -41,6 +45,10 @@ The work I put in to let jealousy out is to **simply watch it**. As jealousy pop
 As jealousy pops into existence, just watch it. Do not run away or control it, by control I mean suppressing it by saying something like 'maybe that grape is sour'. **Understand that, you, are, jealousy now, so just be it!** Jealousy is not seperate from you to run away from it. Be it for sometime simply watching and you would see it happen in you.
 
 **My results:** It might be hard to believe unless you try, but most often as I observe myself when *I am jealousy*, is that there is change in me. Jealousy smoothly drops out of my system and sanity fills in instead. Its almost magical.
+
+<p class="message">
+    Simply watch it to end it
+</p>
 
 I have a few theories as to why this phenomenon takes place, let me keep them to tell you sometime later.
 
