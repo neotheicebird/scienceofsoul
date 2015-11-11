@@ -19,6 +19,15 @@ body {
   font-size: 32px;
 }
 
+// This applies for mobile devices
+@media (max-width: 38em) {
+  #title {
+    font-family: 'Amatic SC', cursive;
+    font-size: 24px;
+    text-indent: 10px;
+    }
+}
+
 #head_links{
   text-align: center;
 }
@@ -83,16 +92,4 @@ th {
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
-}
-
-// This applies from 0px to 600px
-body {
-  background: red;
-}
-
-// This applies from 600px onwards
-@media (min-width: 600px) {
-  body {
-    background: green;
-  }
 }
