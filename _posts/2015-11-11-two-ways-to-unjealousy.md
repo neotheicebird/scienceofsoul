@@ -9,8 +9,8 @@ permalink: two-ways-to-unjealousy
 
 A friend has a nice car, someone is with a beautiful partner, that girl is pretty, this guy is fit, money, fame, respect, whatever it may be, if we are jealous, it just means we want it. But unfortunately we feel guilty and become miserable.
 
-I used to feel guilty for being jealous, then I get angry or I escape (mostly into YouTube). But right before sleep, when noises die down, I would have to endure a frustrated restlessness. Multiple iterations of **Jealous-Guilt-Escape-Restlessness** didn't set me free. But with some experiments, I did stumble upon ways to unjealousy.
- 
+I used to feel guilty for being jealous, then I get angry or I escape (mostly into YouTube). But the most painful part is right before sleep, when noises die down, I endure frustrated restlessness. Multiple iterations of **Jealous-Guilt-Escape-Restlessness** didn't set me free. But with some experiments, I did stumble upon ways to unjealousy.
+
 
 **The First Way - The easier route is to act**
 
