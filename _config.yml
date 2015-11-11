@@ -18,14 +18,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Prashanth
+  url:               https://twitter.com/scienceofsoul1
+  email:             prashanth@scienceofsoul.net
 
 # Custom vars
 version:             3.0.0
 github:
-  repo:              https://github.com/neotheicebird/scienceofsoul
+  repo:              https://github.com/scienceofsoul/scienceofsoul.github.io
 
 # Gems
 gems:

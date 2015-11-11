@@ -3,28 +3,29 @@ layout: page
 title: About
 ---
 
+
+The keystone of science is the truth that under known conditions an action has predicatable effects on a system. The universe isn't all random, rather it behaves intelligently. So I see that the choices I take in this universe and their effects are related. I make choices and observe the effects, 
+it helps me make better ones, and who doesn't want to make better choices?
+
+**Scienceofsoul** is about, why my existence? I scientifically explore the mysteries of my life, 
+I have to give it to you here, it's going to be a bit subjective unlike pure sciences which kinda looks a bit more objective, 
+But I think that deep down, you and me, we are one and if you apply these findings, 
+you should get the same results in your life. Just test it, if they get you different results, you disprove my theories and I would be happy if you can correct me. 
+We are doing science, it happens in science all the time.
+
+I am Prashanth, I live in Chennai, India. I do programming, I teach science to high school kids and I am inspired to live.
+
+This blog is inspired by [zenhabits](http://zenhabits.net) and following Leo's footsteps I uncopyright this blog. 
+
+You can publish this content in your blog, share it, give me credit, or not, whatever, it's your wish.
+ 
+
+Contact
+-------
+
+You can send in emails to `prashanth@scienceofsoul.net`
+or send in your tweets to `@scienceofsoul1`
+    
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+    Our body and mind is a lab, in here we can do the science of soul
 </p>
-
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
