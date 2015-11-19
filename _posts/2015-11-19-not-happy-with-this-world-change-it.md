@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Not happy with this world? Change it!
-permalink: not-happy-with-this-world?-change-it!
+permalink: not-happy-with-this-world-change-it
 ---
 
 The world we are in is not planet earth, its not this universe at all! (Ha ha, I am so funny) but seriously, the world isn't our planet. 
