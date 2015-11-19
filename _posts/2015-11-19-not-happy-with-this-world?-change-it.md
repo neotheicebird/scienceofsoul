@@ -5,9 +5,11 @@ permalink: not-happy-with-this-world?-change-it!
 ---
 
 The world we are in is not planet earth, its not this universe at all! (Ha ha, I am so funny) but seriously, the world isn't our planet. 
+
 <p class="message">
 Your world is only all that surrounds you that stimulates you. 
 </p>
+
 For example, if you respond to the beauty of a flower, or Kickass movies with guns, guys and girls, then these things are in your world. But that book in your shelf, with a beige or green cover and talks something about history, that you are totally ignorant about, you don't even know it exists, that's not in your world.
 
 Let me put more clarity into the theory we have here
