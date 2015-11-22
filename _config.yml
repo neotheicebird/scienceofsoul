@@ -31,7 +31,6 @@ github:
 # Gems
 gems:
 - jekyll-paginate
-- jekyll-sitemap
 
 pages_list:       
   About: '/about'
