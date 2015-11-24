@@ -18,7 +18,7 @@ All kinds of fear end, all the fake, learnt purposes of life disappears, leaving
 
 It is tough to face the idea of death, but I choose to face it now and be free of its bonds, to be like the day I was born, like those days before this world taught me to live with an illusion.
 
-This one cannot be practised, its more like a realization that hits us. There you go, I am hitting you with it right now, *'You would have to die someday'*. 
+This one cannot be practiced, its more like a realization that hits us. There you go, I am hitting you with it right now, *'You would have to die someday'*. 
 
 <p class="message">
 Face it and be free of it.
