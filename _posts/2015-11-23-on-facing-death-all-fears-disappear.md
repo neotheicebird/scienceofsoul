@@ -4,7 +4,7 @@ title: On facing the idea of death, all fears disappear
 permalink: on-facing-the-idea-of-death-all-fears-disappear
 ---
 
-That's it. The title says it all. OK, for you I will explain the obvious.
+That's it. The title says it all, but here are more thoughts, for the sake of coherence.
 
 As Steve Jobs famously said ([here](https://youtu.be/UF8uR6Z6KLc)), sometimes when I look into the mirror, I see a mortal being.
 
