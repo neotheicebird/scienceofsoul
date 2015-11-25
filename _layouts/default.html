@@ -28,41 +28,6 @@
       </footer>
     </div>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script src="../js/jquery.scrolldepth.js"></script>
-  <script>
-    function log(str) {
-      if ( typeof console !== 'undefined' && typeof console.log !== 'undefined' ) {
-        console.log(str);
-      }
-      var consoleElement = document.getElementById('console');
-      consoleElement.innerHTML = str + '<br/>' + consoleElement.innerHTML;
-    }
-    var _gaq = {};
-    _gaq.push = function(data) {
-      log("_gaq.push(" + JSON.stringify(data) + ");");
-    };
-    var dataLayer = {};
-    dataLayer.push = function(data) {
-      log("dataLayer.push(" + JSON.stringify(data) + ");");
-    };
-    var ga = function(params) {
-      var args = Array.prototype.slice.call(arguments, 1);
-      log("ga(" + args.join(',') + ");");
-    };
-    _gaq = undefined;
-    dataLayer = undefined;
-    //ga = undefined;
-    $.scrollDepth({
-      elements: ['#main'],
-      userTiming: false,
-      percentage: false,
-      pixelDepth: false
-      //gtmOverride: true,
-      //eventHandler: function(data) {
-        //log(data)
-      //}
-    });
-  </script>
+    {% include scroll_depth_tool.html %}
   </body>
 </html>
