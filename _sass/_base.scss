@@ -24,7 +24,7 @@ body {
 }
 
 // This applies for mobile devices
-@media (max-width: 38em) {
+@media (max-width: 40em) {
   // enables a line break between title and links
   .break{
     display:block;
@@ -52,7 +52,7 @@ html {
   font-size: 16px;
   line-height: 1.5;
 
-  @media (min-width: 38em) {
+  @media (min-width: 40em) {
     font-size: 18px;
   }
 }
