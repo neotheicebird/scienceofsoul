@@ -58,5 +58,5 @@ The conditions were right. I had planned every detail to the second; death came 
 A baby was born somewhere… somewhere… and she cried…
 
 <p class="editors-note">
-Filarial was listening to two bands as he inferred the truth - *“Pavement”* and of course *“Husker Du”*. He likes to back his fiction with facts.”*
+Filarial was listening to two bands as he inferred the truth - “Pavement” and of course “Husker Du”. He likes to back his fiction with facts.
 </p>
