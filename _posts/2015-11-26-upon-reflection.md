@@ -5,7 +5,7 @@ permalink: upon-reflection
 ---
 
 <p class="editors-note">
-<u>Editor's note</u>: This is a guest post from Filarial of <a href="http://filarial.blogspot.in">Eternal Sunshine of a Filarial Mind</a>. He writes quiryky and fun stuff, that always has some kind of a twist, like this great tale.
+<u>Editor's note</u>: This is a guest post from Filarial of <a href="http://filarial.blogspot.in">Eternal Sunshine of a Filarial Mind</a>. He writes quirky and fun stuff, that always has some kind of a twist, like this great tale.
 </p>
 
 ### Akṣapāda Gautama’s Gurukul…
