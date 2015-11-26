@@ -3,7 +3,9 @@ layout: post
 title: Two ways to unjealousy
 permalink: two-ways-to-unjealousy
 ---
-*Edit Nov, 25, 2015: I just realized that the jealousy I am talking about in this article is actually envy. We envy what someone has, that we don't have. Jealousy is more of what we have, that we fear someone might take away from us. Like a fear that my partner is attracted to someone else. So this is more of a guide to unenvy, but the methods below are applicable to jealousy as well. Just note that to overcome jealousy compassion and openness are key! Guess I should have thought it through after all (Haha).*
+<p class="editors-note">
+<strong>Edit Nov, 25, 2015:</strong> I just realized that the jealousy I am talking about in this article is actually envy. We envy what someone has, that we don't have. Jealousy is more of what we have, that we fear someone might take away from us. Like a fear that my partner is attracted to someone else. So this is more of a guide to unenvy, but the methods below are applicable to jealousy as well. Just note that to overcome jealousy compassion and openness are key! Guess I should have thought it through after all (Haha).*
+</p>
 
 *Jealousy* is beautiful, it brings out our desires. What's irrational and ugly is wanting instant gratification of these desires.
 
