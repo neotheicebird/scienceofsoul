@@ -70,6 +70,7 @@ Basically, larger than a dot is not dot enough. :D
 
 **The final case:**
 Here comes the final question
+
 <p class="message">
 Couldn't the universe have been a dot and there be no observer to observe it?
 
@@ -85,6 +86,7 @@ If a tree falls in a forest and no one is around to hear it, does it make a soun
 </p>
 
 or a funny version by Dr.Ken Robinson in [Do schools kill creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity), where he states:
+
 <p class="message">
 If a man speaks his mind in a forest, and no woman hears him, is he still wrong?
 </p>
@@ -104,6 +106,7 @@ I like to end articles with questions. Every answer most often leads to a better
 
 1 - Every moment we measure reality, right? like we measure heat, light, sound, gravitational pull and so on and respond to these stimuli. That's what living is all about, measuring and responding. Without measurement there is no living. 
 Hypothesis:
+
 <p class="message">
 In a dream, we measure and respond, there are a lot of stimulus of its own kind, like maybe we fly, we might experience breeze and heat. We are still bound by some rules.
 A) Is a dream just an alternate universe/alternate reality?
@@ -112,6 +115,7 @@ B) If not, what is that which separates the so called 'reality' from a 'dream'.
 </p>
 
 2 - We kinda agree that without anyone to observe an event, to talk about if that event happened or not is absurd. Let's assume, for a moment, that without an observer, the event to be observed, doesn't happen! Which leads to the following hypothesis:
+
 <p class="message">
 Without you, the observer, there is no universe! Which could also mean, the universe exists because you exist, Which could also 'beautifully' mean, that you are the universe, if there cannot be existence of one without the other then they are two projections of the same thing!
 </p>
