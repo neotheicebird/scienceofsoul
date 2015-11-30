@@ -5,7 +5,7 @@ permalink: upon-reflection
 ---
 
 <p class="editors-note">
-<u>Editor's note</u>: This is a guest post from Filarial of <a href="http://filarial.blogspot.in">Eternal Sunshine of a Filarial Mind</a>. He writes quiryky and fun stuff, that always has some kind of a twist, like this great tale.
+<u>Editor's note</u>: This is a guest post from Filarial of <a href="http://filarial.blogspot.in">Eternal Sunshine of a Filarial Mind</a>. He writes quirky and fun stuff, that always has some kind of a twist, like this great tale.
 </p>
 
 ### Akṣapāda Gautama’s Gurukul…
@@ -58,5 +58,5 @@ The conditions were right. I had planned every detail to the second; death came 
 A baby was born somewhere… somewhere… and she cried…
 
 <p class="editors-note">
-Filarial was listening to two bands as he inferred the truth - *“Pavement”* and of course *“Husker Du”*. He likes to back his fiction with facts.”*
+Filarial was listening to two bands as he inferred the truth - “Pavement” and of course “Husker Du”. He likes to back his fiction with facts.
 </p>
