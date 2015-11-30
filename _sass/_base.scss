@@ -23,6 +23,11 @@ body {
     display:none;
 }
 
+iframe {
+  display:block;
+  margin: 0 auto;
+}
+
 // This applies for mobile devices
 @media (max-width: 40em) {
   // enables a line break between title and links
