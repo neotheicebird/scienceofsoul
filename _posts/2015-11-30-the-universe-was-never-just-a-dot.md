@@ -93,36 +93,31 @@ If a man speaks his mind in a forest, and no woman hears him, is he still wrong?
 
 That sure is funny, but anyway, along the same lines, if there couldn't have been any observer whatsoever to observe such a phenomenon, as we can conclude from our experiment, did the phenomenon really happen the way we think it happened?
 
-I am not claiming, [The Big Bang Theory](https://en.wikipedia.org/wiki/Big_Bang) is wrong. No, there is a lot of evidence for the Big Bang to have happened, like that cracking noise old televisions made, that's the signal got from the Big Bang! I am simply stating that popular science ideas like *'the universe was just a dot'* has stuck with many of us, and we may not have given enough thought to it. **By believing what we hear or see without doubt, we support untested beliefs, and such beliefs bind freedom**. Think about it, it was little bit of heavy lifting for me, but it was fun cracking the truth of it.
+Just to make it clear, I am not claiming that [the Big Bang Theory](https://en.wikipedia.org/wiki/Big_Bang) is wrong. No, there is a lot of evidence for the Big Bang to have happened, like that cracking noise old televisions made, that's galactic noise which comes from the Big Bang! I am simply stating that popular science ideas like *'the universe was just a dot'* has stuck with many of us, and we may not have given enough thought to it. **By believing what we hear or see without doubt, we support untested beliefs, and such beliefs bind freedom**.
  
-Here's some fun stuff, to understand **The Big Bang theory** as scientists currently do watch the video [Science, Religion, and the Big Bang](https://youtu.be/q3MWRvLndzs) by [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg), in which he shows evidence that not only disproves the *'dot model'*, but also tell us *'How the universe freaking looked when Big Bang took place'*
+Here is an amazing video by [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg) on [Science, Religion, and the Big Bang](https://youtu.be/q3MWRvLndzs) in which they explain **The Big Bang theory** as scientists currently understand.
  
 **Now that's awesome**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q3MWRvLndzs" frameborder="0" allowfullscreen></iframe>
 <span class="break"></span>
 
-I like to end articles with questions. Every answer most often leads to a better question, in that spirit here are two untested hypothesis, truth of which I would love to discover with you:
+I see that every time I find answer to an engulfing question, I end up with more questions. Here is one question I got from thinking about Big bang and the nature of this cosmos:
 
-1 - Every moment we measure reality, right? like we measure heat, light, sound, gravitational pull and so on and respond to these stimuli. That's what living is all about, measuring and responding. Without measurement there is no living. 
-Hypothesis:
+Every moment we measure reality, right? like we measure heat, light, sound, gravitational pull and so on and respond to these stimuli. That's what living is all about, measuring and responding. Without measurement there is no living. 
+
+Here is the hypothesis:
 
 <p class="message">
 In a dream, we measure and respond, there are a lot of stimulus of its own kind, like maybe we fly, we might experience breeze and heat. We are still bound by some rules.
 A) Is a dream just an alternate universe/alternate reality?
 B) If not, what is that which separates the so called 'reality' from a 'dream'. 
-'I feel it' is valid, but to get an intellectual proof is a nice challenge to solve.
+'I feel it, I know when it is real and when it is a dream' is valid, but to get an intellectual understanding is a nice reward in itself.
 </p>
 
-2 - We kinda agree that without anyone to observe an event, to talk about if that event happened or not is absurd. Let's assume, for a moment, that without an observer, the event to be observed, doesn't happen! Which leads to the following hypothesis:
+But like Dr.Richard Feynman says, when you make a theory, however beautiful it may sound to you, if experiments disagree with it, then it is wrong! 
 
-<p class="message">
-Without you, the observer, there is no universe! Which could also mean, the universe exists because you exist, Which could also 'beautifully' mean, that you are the universe, if there cannot be existence of one without the other then they are two projections of the same thing!
-</p>
-
-But like Dr.Richard Feynman says an hypothesis, however beautiful it may sound to you, if experiments disagree with it, then it is wrong! 
-
-Our work here is to find ways to test our beliefs and then test them! only after we test should we believe (realize) them. 
+Our work here is to find ways to test our beliefs and test them! only after we test can we understand things. I would love to listen to your comments! Share this with your geeky friends and let me know what they have to say about this.
 
 **Happy thinking!**
 
